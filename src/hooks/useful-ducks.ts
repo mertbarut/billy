@@ -1,5 +1,5 @@
-import { TypedUseSelectorHook, useDispatch, useSelector } from 'react-redux';
-import { RootState, AppDispatch } from 'src/ducks/store';
+import { TypedUseSelectorHook, useDispatch, useSelector } from "react-redux";
+import { RootState, AppDispatch } from "src/ducks/store";
 
 /*
     File defines useful hooks for react redux with typescript
